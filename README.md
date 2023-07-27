@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arizzy123
 - 👀 I’m interested in any internship role on python developer 
-- 🌱 I’m currently learning django developer
+- 🌱 I’m currently learning django 
 - 💞️ I’m looking to collaborate on any project that requires using python
 - 📫 Yu can reach via my emai: azeezridwan321@gmail.com
 
